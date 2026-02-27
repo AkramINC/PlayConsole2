@@ -1,8 +1,8 @@
 {
-  "isUpdateActive": false,
-  "updateTitle": "Update Available",
-  "updateMessage": "A new vertion of SaveTik is available. Please update to version 1.2.0 NOW",
-  "updateCancelBtn": "Next time",
-  "updateActionBtn": "Update",
-  "updateLink": "itms-apps://itunes.apple.com/app/id835599320"
+  "isUpdateActive": true,
+  "updateTitle": "Get the Original TikFans 🚀",
+  "updateMessage": "Download the official TikFans app for the real experience, secure access, and latest features.",
+  "updateCancelBtn": "Maybe Later",
+  "updateActionBtn": "Download Now",
+  "updateLink": "https://play.google.com/store/apps/details?id=com.fox.tikfans.followers.tik.boost.tikbooster"
 }
